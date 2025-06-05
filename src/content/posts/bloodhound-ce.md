@@ -3,7 +3,7 @@ title: BloodHound Community Edition (CE) - 2025 Overview
 published: 2025-06-05
 description: Exploration and deep dive into BloodHound Community Edition, pushing it to its limits and navigating the entire platform end-to-end.
 image: ./cover.jpg
-tags: [Microsoft, Acive Directory]
+tags: [Microsoft, Acive_Directory]
 category: Microsoft
 draft: false
 ---
