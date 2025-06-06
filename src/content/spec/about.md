@@ -1,9 +1,66 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
 
-::github{repo="saicaca/fuwari"}
+**Welcome to my blog**.
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+I'm *not great at introductions*, so I’ll keep it short. I'm a **passionate enthusiast of hacking and computer science** in general, something that’s fascinated me since I was a kid.
+
+On this blog, you’ll find `writeups` of challenges, `documentation` on various technologies, and *other articles related (directly or indirectly)* to `computer science` and `problem-solving`.
+
+If you'd like to reach out, you can do so through my `Discord account` (**fhex**), or join my `Discord server` directly to chat and interact: [https://discord.gg/mHRuJf8PDJ](https://discord.gg/mHRuJf8PDJ)
+
+And for the curious ones, here is my **PGP key**:
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+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
+=l1K/
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
+Just know that *trolls are absolutely not welcome* and will be **immediately blocked or banned** from the Discord server.
